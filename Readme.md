@@ -1,4 +1,4 @@
-#Recommendation System
+# Recommendation System
 ## Contents
 Generally, there are three categories of recommendation systems: content based systems, collaborative filtering systems, and hybrid systems.
 
